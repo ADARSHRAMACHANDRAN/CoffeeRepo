@@ -1,0 +1,182 @@
+.f1{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(236, 197, 138);
+}
+a{
+    color: white;
+    padding-left: 220px;
+}
+.h1{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(65, 27, 5);
+    text-align: center;
+    margin-top: -23px;
+    color: white;
+    padding-top: 20px;
+
+    position: sticky;
+    top: 0px;
+    font-family: 'Dancing Script', cursive;
+    font-size: large;
+}
+.coffee{
+    background-image: url(./pexels-toni-cuenca-585750.jpg);
+    background-size: cover;
+
+}
+.co{
+    width: 50%;
+    height: 700px;
+    color: white;
+    font-size: x-large;
+    padding-left: 30PX;
+    padding-top: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+.h2{
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+.history{
+    background-color: rgb(209, 168, 91);
+    position: relative;
+    flex: 10px;
+    padding: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+
+}
+.turh{
+    padding-left: 80px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+.tuim{
+    width: 25%;
+    padding-left: 80px;
+    padding-top: 30px;
+    height: px;
+}
+.tur{
+    width: 50%;
+    height: 200px;
+    margin-left: 520px;
+    margin-top: -166px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    }
+.essh{
+    padding-left: 80px;
+    margin-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+.essp{
+    padding-left: 80px;
+    width: 50%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+.esspi{
+    width: 25%;
+    padding-left: 960px;
+    margin-top: -180px;
+}
+.caph{
+    padding-left: 80px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+.capi{
+    width: 25%;
+    padding-left: 80px;
+
+}
+.cap{
+    margin-left: 520px;
+    width: 50%;
+    height: 100px;
+    margin-top: -200px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+.lath{
+    padding: 80px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+.latte{
+    padding-left: 80px;
+    height: 100px;
+    width: 50%;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+.lati{
+    width: 25%;
+    padding-left: 960px;
+    margin-top: -180px;
+}
+.moc{
+    padding: 80px;
+    margin-top: -25px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+.moci{
+    width: 25%;
+    padding-left: 80px;
+    margin-top: -60px;
+}
+.mocha{
+    width: 50%;
+    height: 200px;
+    margin-left: 550px;
+    margin-top: -200px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+.hb{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
+.ul{
+    text-align: center;
+    padding-top: 80px;
+    background-color: rgb(209, 168, 91);
+    padding: 80px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+
+}
+.lab{
+    margin-left: 50px;margin-right: 50px;
+     background-color:transparent; border: solid 1px rgb(5, 5, 5) ;font-weight: 700px; height: 30px; width: 400px; font-size:15px;" 
+    }
+    .btn2{
+        margin-left: 50px;margin-top: 25px;
+        font-size: 20px;
+        color: rgb(252, 248, 248);
+        background: rgb(112, 7, 7);
+        text-align: center;
+        padding:15px 40px 15px 40px;
+        font-family:Arial, Helvetica, sans-serif;
+        border: 0px;
+    }
+    footer{
+        background-color:  rgb(65, 27, 5);
+        text-align: center;
+        padding: 30px;
+        color: white;
+    }
+    i{
+        padding-left: 1200px;
+        margin-top: 0px;
+    }
